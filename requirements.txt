@@ -1,0 +1,3 @@
+PyAudio
+pyautogui; sys_platform == 'linux'
+pydirectinput; sys_platform == 'win32'
